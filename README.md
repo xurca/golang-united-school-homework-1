@@ -15,5 +15,7 @@ You might code in any IDEA or TextEditor for the development, to sumbit the code
 Good Luck!
 
 > go mod init
+
 > go get github.com/kyokomi/emoji/v2
+
 > go run .
